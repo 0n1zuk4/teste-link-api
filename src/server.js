@@ -23,5 +23,5 @@ app.listen(PORT, () => {
 });
 
 app.get('/', (req,res) => {
-  res.send('HELLO WORLD. THIS IS MY API RUNNING ON THE ROCKS');
+  res.send('');
 });
